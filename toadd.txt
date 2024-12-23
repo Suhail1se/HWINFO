@@ -1,0 +1,5 @@
+v > 0.5 -> 1
+else 0
+
+elloun mta3 el s5ana wel usage azre9 a5dher asfer a7mer
+ta9sim el gui 3al config gpu - cpu - ram (vertical)
